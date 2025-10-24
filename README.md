@@ -28,11 +28,19 @@ A web application for managing notes, built with Django REST Framework backend a
 ## 🎨 Screenshots
 
 
-Notes Dashboard: Clean interface showing all notes 
-![](docs/screens/dashboard.png)
+* Notes Dashboard: Clean interface showing all notes 
 
-Add Note Form: Modal or inline form for new notes
-![](docs/screens/add_note.png)
+<img src="docs/screens/notes_list.png" alt="App Screenshot" width="400" height="500" />
+
+
+* Add Note Form: Modal or inline form for new notes
+
+<img src="docs/screens/add_note.png" alt="App Screenshot" width="400" height="500" />
+
+* The Sqlite database data
+
+<img src="docs/screens/bdd.png" alt="App Screenshot" width="400" height="500" />
+
 
 ## 🛠️ Tech Stack
 - Backend:
