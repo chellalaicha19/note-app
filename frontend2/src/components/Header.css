@@ -1,0 +1,9 @@
+.containerH {
+  background-color: #222; /* Dark grey */
+  color: white;
+  padding: 5px 0px;
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  border-radius: 10px 10px 0 0; /* Rounded top corners */
+}
