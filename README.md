@@ -1,50 +1,66 @@
-#📝 Django React Notes App
+# 📝 Django React Notes App
 A web application for managing notes, built with Django REST Framework backend and React frontend. This project demonstrates CRUD (Create, Read, Update, Delete) operations in a modern web development stack.
 
-🚀 Features
-Backend (Django REST Framework)
+## 🚀 Features
+### Backend (Django REST Framework)
 
-##CRUD Operations:
+- CRUD Operations:
 
-** ✅ Create new notes
+  * ✅ Create new notes
 
-** 📖 Read and list all notes
+  * 📖 Read and list all notes
 
-** ✏️ Update existing notes
+  * ✏️ Update existing notes
 
-** 🗑️ Delete notes
+  * 🗑️ Delete notes
 
-SQLite Database for data persistence
+- SQLite Database for data persistence
 
-CORS Configuration for frontend-backend communication
+- CORS Configuration for frontend-backend communication
 
-Frontend (React)
-Modern React Hooks (useState, useEffect)
+### Frontend (React)
+- Modern React Hooks (useState, useEffect)
+
+- Responsive Design with CSS styling
+
+- User-Friendly Interface with intuitive controls
+
+## 🎨 Screenshots
 
 
-Responsive Design with CSS styling
+Notes Dashboard: Clean interface showing all notes 
+![](docs/screens/dashboard.png)
 
-Real-time Updates without page refresh
+Add Note Form: Modal or inline form for new notes
+![](docs/screens/add_note.png)
 
-User-Friendly Interface with intuitive controls
+## 🛠️ Tech Stack
+- Backend:
 
-🛠️ Tech Stack
-Backend:
+  * Python 3.13.2
 
-Python 3.x
+  * Django 5.2.7
 
-Django 4.x/5.x
+  * Django REST Framework
 
-Django REST Framework
+  * SQLite3
 
-SQLite3
+- Frontend:
 
-Simple JWT for authentication
+  * React 18+
 
-Frontend:
+  * CSS3 for styling
 
-React 18+
+  * HTML5
 
-CSS3 for styling
+## 📝 Learning Outcomes : 
 
-HTML5
+- Full-stack development with Django and React
+
+- REST API design and implementation
+
+- Frontend-backend integration
+
+- CRUD operations in a web application
+
+- Modern JavaScript and Python development practices
